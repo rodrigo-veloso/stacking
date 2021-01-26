@@ -1,0 +1,6 @@
+,default,normalized,pca
+max_depth,7,7,7
+Best Score,0.9444,0.9442,0.9148
+Best Score Std,0.0081,0.0082,0.0072
+Mean Score,0.9354,0.9357,0.9008
+Mean Score Std,0.0111,0.0112,0.0070
